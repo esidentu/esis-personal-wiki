@@ -1,0 +1,371 @@
+
+Page
+1
+of 13
+1
+FTMBA 200S: Data and Decisions
+Syllabus Fall A 2026
+(Aug 24th to Oct 7th 2026)
+Instructor:
+Professor Matthew Backus
+Office: F685 Haas Faculty Building
+Email: backus@berkeley.edu
+Web: https://haas.berkeley.edu/faculty/matthew-backus/
+Office Hours: Weds 11am-12pm (no appointment, walk-in)
+Graduate Student Instructor:
+Shreya Chandra
+E-mail: shreya.chandra@berkeley.edu
+Office Hours: Wednesdays 4:00pm-6:00pm, in F489 (Haas Faculty Building; walk-in, no
+appointment)
+The Course
+Course Objectives:
+Data and Decisions is not a typical statistics course. We move quickly, covering during
+seven weeks everything from statistical tests and confidence intervals all the way through
+interpretation and inference in multiple regression models. Along the way, we emphasize
+deep ideas rather than memorizing formulas, discussing, for example, how smart
+companies use experiments to increase profits and the business and quantitative
+implications of big data and AI.
+Class Schedule: Lecture Axe: Mondays & Wednesdays, 9am-11am. N570 Chou
+Hall, starting August 24th.
+Lecture Oski: Mondays & Wednesdays, 2pm-4pm. N570 Chou
+Hall, starting August 24th.
+GSI Review Section: Friday 9am-10:30am. N570 Chou Hall,
+starting August 28th.
+Both lecture and review section begin promptly 10 minutes after
+the hour.
+2
+Course Materials: (1) The suggested text is Statistics for Business: Decision Making
+and Analysis, 3rd Edition, by Robert Stine and Dean Foster,
+Pearson, January 2017. This is available at the Cal Store, but feel
+free to get the book wherever and in whatever form you would
+like. For example, the book is available for rent or eTextbook
+digital rental from Amazon. The reading of the textbook is
+optional; students are strongly encouraged to read the assigned
+chapters before class.
+(2) A statistical software package. Data and Decisions requires
+data work on statistical software. We allow for multiple tools. One
+is Stata, an advanced statistical software package. Free Stata
+student licenses were negotiated for MBA students. Another easy
+one to use is Microsoft Excel, which you can use for all in-class
+exercises, but it is less specific to data analysis. Be sure you have
+Excel and that you have installed the Analysis Toolpak. To
+activate the Toolpak, from Excel Options go to “Add-Ins" to
+activate. If you are using a Mac, please be sure to use Microsoft
+Office for Mac which is available for free for all Haas students.
+You can also use R, SAS, SPSS, Matlab or Python. We provide
+support for Stata, Excel, R. However, if you already have any
+statistical package you prefer, feel free to use that.
+(3) Access to an advanced AI model interface, such as Gemini,
+ChatGPT, Claude, or others of equivalent capacity. We use these
+for data analysis and human-machine complemented statistical
+decisions.
+(4) www.dlab.berkeley.edu Data Lab for supplementary and
+completely optional coding/training sessions (for those of you who
+want to learn python, etc.). Great resource.
+(5) Zoom will only be used for in-class practice (students will log
+in and share the statistical analysis on their machines). We will
+use: https://berkeley.zoom.us/my/matthew.backus
+Classroom Norms
+Class attendance is required. Be in your seats ready to begin the discussion when class
+starts. Because of the way our classrooms are designed, it is disruptive when class
+members arrive late. Please be courteous to your fellow classmates and arrive on time.
+We will take a brief five-minute break at the one-hour mark to minimize disruptions
+during lecture.
+3
+The FTMBA classroom norms were developed in collaboration with previous FTMBA
+students and the program office. As a reminder they are: (1) inclusive, (2) supportive, (3)
+prompt and present, and (4) learning-focused tech.
+The class is in-person. It is not possible to live-stream either the lecture or discussion
+section. Use the Program Office form to report absences from class. (When you
+anticipate being absent, please complete this form). Notice that essentially only deaths in
+the family or serious illness are excusable.
+Note on Cold-Calling
+In order to ensure that I have an accurate sense of how the class as a whole understands
+the material—and to make sure that all students participate and feel included—I use cold-
+calling (or rather, “warm calling”). Before each class starts, I will use software to select
+random samples of students (random sampling with replacement), who will be called
+upon in class.
+These are not interrogations; they are friendly conversations designed to allow me to
+sample from the class and to understand whether the material that we are discussing is
+correctly assimilated by the students. We learn together this way. Furthermore, the
+benefits of random sampling will soon be evident to students of Data and Decisions.
+Fire/Smoke/Power Outage
+In the event that we are not able to hold classes on campus due to an emergency campus
+shutdown, we will move to a remote format (see Zoom details).
+Electronics Policy
+No cellphones may be used in class at any time. Laptops will be used for in-class
+exercises and for the final exam. Laptops and tablets are not allowed in class except
+during designated times and for data analysis only.
+Midterm:
+There is no midterm exam.
+Deliverables
+Group deliverable data projects take the place of the midterm. Details on the group
+project are noted in the assignments and will be also presented in class. Students will
+work with their Haas study groups and have one week to complete each project.
+Final Exam:
+4
+The final exam will be 2 hours long, on Tuesday October 13th, 9-11am. You will be
+allowed a single 8 ½ x 11 sheet of paper (double-sided) with notes (any font, any spacing
+allowed).
+Grading:
+10% Attendance. Recorded using iClickers. Students can miss 1 class without
+penalty. Attendance is tracked starting from Lecture 2.
+50% Group Projects. The simple average of the take-home deliverables
+determines this score.
+40% Final Exam. The final exam is in person. You need to take this test in
+order to pass the course.
+These three components will produce your numerical score for Data and Decisions. The
+letter grade of each student will then be determined based on an academic curve, fit on
+the numerical scores of the entire class and set by your instructor.
+GSI Sections
+The Friday discussion sections will be run by the GSI. Review sections are very, very
+strongly recommended and should be considered as important as lectures. The GSI will
+also organize an extra section (a review session) during the week of the final exam. If
+there are particular topics you want the GSI to cover, please let them know by
+Wednesday 5pm. Note: there will be no review section on Friday, September 11th, due to
+the make-up class that day.
+Communication
+We will use bCourses for circulating PowerPoint slides, cases, quizzes from previous
+years, and other discussion materials. These materials are intellectual property of the
+Haas School of Business so please do not repost.
+You should also post questions on logistics and course material there. I will keep
+everything you need on bCourses.
+Honor Code
+Even if not explicitly stated on each test, the honor code is always in effect. As members
+of the UC-Berkeley community, our expectation is that you will adhere rigorously to the
+UC-Berkeley Honor Code. Anyone caught cheating on any test in this course will receive
+a failing grade in the course and will also be reported to the University Center for Student
+Conduct. For further information see: www.asuc.org/honorcode/.
+AI Policy
+5
+Students in this course are allowed to use generative AI tools provided for certain
+assignments and may use other generative AI tools unless specifically prohibited for a
+given assignment. This approach aims to foster AI literacy and to explore how AI tools
+can enhance learning, research, and creative processes. Even when using AI, students are
+still responsible for ensuring the accuracy, originality, and integrity of their submitted
+work. For certain assignments (e.g., in-class exams, specific writing tasks), the use of AI
+tools may be strictly prohibited. Specifically, the use of AI is strictly forbidden on the
+Final Exam. Any use of AI during the Final Exam will trigger an automatic Failing
+Grade on the course.
+Any permitted use of AI tools must be disclosed in accordance with the following
+guidelines.
+Acknowledging AI use
+You must acknowledge all instances where you use a generative AI tool in this course.
+This should be done within the assignment itself or in an appendix to the assignment. For
+each instance, you must specify:
+AI System Used: (e.g., ChatGPT, Gemini, Claude, etc., including version if known)
+Specific Use of the Tool: (e.g., brainstorming, outlining, grammar check, code debugging
+assistance, etc.)
+Prompting Strategy/Key Prompts: Describe your approach to prompting the AI and, if
+applicable, include key examples of prompts that were central to generating the output
+you used.
+Outputs Received: The relevant output generated by the AI tool, clearly indicating which
+parts were used or adapted.
+Example Acknowledgement:
+"I used [AI System] (e.g., ChatGPT 4.0) to [specific use, e.g., brainstorm ideas for topic
+X]. My prompting strategy involved [brief description of strategy, e.g., iterative
+refinement], and a key prompt was: '[insert key prompt here]'. The output included [brief
+description of relevant output, e.g., three potential angles for argument X], which I then
+developed further in my own words in paragraph Y."
+Re-Grading
+Requests for re-grades must be submitted in writing within 72 hours of the test/exam
+being returned. This typed petition should clearly document the specific issue you have
+with the grading and should be turned in with the relevant assignment. Please do not
+write on the test/exam, but rather on a separate document. We do not re-grade individual
+questions. Thus, a re-grade request will prompt a regrade of the entire test/exam and your
+score may go down after a regrade.
+Other Help and Resources
+6
+Accommodation services through the Disabled Students Program Office are available. If
+you need accommodation in this class, please contact DSP (not me). A letter will then be
+sent to me informing me of the specific accommodation (e.g. additional time on exams,
+etc.).
+7
+Course Outline/Reading List
+# Date Topic Going Deeper Deadlines
+1 Mon Aug 24 Course Introduction Chapter 1-12
+review
+2 Wed Aug 26 Samples & Surveys Chapter 13 Deliverable #1 Distributed
+3 Mon Aug 31 Sampling Variation &
+Sampling Bias
+4 Wed Sep 2 Control Limits & Type
+I/II Error
+Chapter 14,
+Sec. 1 and 2
+Deliverable #1 Due
+Deliverable #2 Distributed
+5 Wed Sep 9 Confidence Intervals &
+Hypothesis Testing
+Chapters 15, 16
+6 Fri Sep 11 Experiments, A/B
+testing, & Randomized
+Controlled Trials
+Chapters 17,
+Sec. 1, 2, 3, 5
+Deliverable #2 Due
+7 Mon Sep 14 Linear Patterns Chapter 19
+8 Wed Sep 16 The Regression Model Chapters 21, 23 Deliverable #3 Distributed
+9 Mon Sep 21 The Regression Model
+Part 2
+10 Wed Sep 23 Building Regression
+Models
+Chapter 24 Deliverable #3 Due
+Deliverable #4 Distributed
+11 Mon Sep 28 Categorical Models Chapter 25
+12 Wed Sep 30 Predictive Analytics Deliverable #4 Due
+Deliverable #5 Distributed
+13 Mon Oct 5 Machine Learning/
+AI/Preparation for Data
+Analytics
+14 Wed Oct 7 Wrap Up & Review Deliverable #5 Due
+Tue Oct 13,
+9-11am
+Final Exam
+8
+FTMBA 200S: Supplementary Articles and Other Readings
+Lectures 2-3: Sampling and Population:
+The Economist, November 5th 2020. “Polls—and our forecast model—overestimated
+support for Joe Biden” https://www.economist.com/united-states/2020/11/05/polls-and-
+our-forecast-model-overestimated-support-for-joe-biden
+Joe Pinsker. Wall Street Journal, August 6th 2025. "Government Data Is Under Fire, but It
+Makes the World Go ‘Round" https://www.wsj.com/personal-finance/bureau-labor-
+statistics-data-impact-uses-fd2b00f7?mod=article_inline
+The Economist, June 22nd 2023. “Telling it how it isn’t: As response rates decline, the
+risk of polling errors rises” https://www.economist.com/united-states/2023/06/22/as-
+response-rates-decline-the-risk-of-polling-errors-rises
+Text as Data
+Financial Times, May 3rd 2026. “Hedge funds seek an edge by using AI’s speed”
+https://www.ft.com/content/0feb5743-ecf3-48f3-8425-faabea4b6f86?syn-25a6b1a6=1
+Lecture 4: Type I and Type II Errors
+Deepa Seetharaman, Wall Street Journal, August 4th, 2024 “There’s a Tool to Catch
+Students Cheating With ChatGPT. OpenAI Hasn’t Released It”
+https://www.wsj.com/tech/ai/openai-tool-chatgpt-cheating-writing-135b755a
+Brody Jane E., The New York Times, July 13th, 2020, updated Aug. 7th, 2020. “The Case
+for Smarter Coronavirus Testing”
+https://www.nytimes.com/2020/07/13/well/live/coronavirus-smart-testing.html
+Lecture 5: Prediction and Uncertainty:
+The Wall Street Journal, June 10th, 2020. “The Fed’s Work Is Far From Done”
+https://www.wsj.com/articles/the-feds-work-is-far-from-done-
+11591821969?st=fraquc1dwob0766
+Jason Furman. Project Syndicate, January 17th, 2022. “Why Did Almost Nobody See
+Inflation Coming?” https://www.project-syndicate.org/commentary/2021-us-inflation-
+forecasting-errors-economic-models-by-jason-furman-2022-01
+9
+The Economist, 2024. “How The Economist’s presidential forecast works”
+https://www.economist.com/interactive/us-2024-election/prediction-
+model/president/how-this-works
+Aschwanden, Christie November 26th, 2019. Wired Magazine “We're All 'P-Hacking'
+Now” https://www.wired.com/story/were-all-p-hacking-now/
+Lectures 7-11: Applications of Regression Analysis
+The Economist, March 10th, 2024. “New numbers show falling standards in American
+high schools” https://www.economist.com/united-states/2024/03/10/new-numbers-show-
+falling-standards-in-american-high-schools
+The Economist, February 5th 2022. “How we forecast the French Election”
+https://www.economist.com/graphic-detail/how-we-forecast-the-french-
+election/21807484
+Nate Silver’s Model Methodology 2024 https://www.natesilver.net/p/model-
+methodology-2024
+The Wall Street Journal, March 5th, 2020. “The Power of Personal Metrics At Work”
+https://www.wsj.com/articles/the-power-of-personal-metrics-at-work-11583361008
+Bojinov, Iavor I., Albert Chen, and Min Liu. "The Importance of Being Causal." Harvard
+Data Science Review 2.3 (July 30, 2020).
+https://hdsr.mitpress.mit.edu/pub/wjhth9tr/release/1
+The Economist, April 21st 2026 “AI is the new Oracle of Delphi. That’s bad news”
+https://www.economist.com/by-invitation/2026/04/21/ai-is-the-new-oracle-of-delphi-
+thats-bad-news
+Lecture 11: Data and the Gender Gap:
+The Wall Street Journal, July 31st, 2020. “The Women’s Suffrage Movement and the
+Gender Gap Are Fixtures of U.S. Elections. It Didn’t Start Out That Way”
+https://www.wsj.com/articles/the-womens-suffrage-movement-and-the-gender-gap-
+arefixtures-of-u-s-elections-it-didnt-start-out-that-way-11596209355
+Cheng, Eugenia The Wall Street Journal, August 6th, 2020. “What the Numbers Say
+About Gender Differences” https://www.wsj.com/articles/what-the-numbers-say-about-
+gender-differences-11596752225?st=auob03a8dxg19b1
+Adamy, Janet and Paul Overberg. The Wall Street Journal, May 17th, 2016. “Women in
+Elite Jobs Face Stubborn Pay Gap” https://www.wsj.com/articles/women-in-elite-jobs-
+face-stubborn-pay-gap-1463502938
+10
+Harvard Business Review, November 3rd, 2020. “How to Identify — and Fix — Pay
+Inequality at Your Company” https://hbr.org/2020/11/how-to-identify-and-fix-pay-
+inequality-at-your-company
+11
+Lecture 13: Machine Learning, AI and Data Science
+Melissa Heikkilä, Financial Times July 19th 2025. “AI groups spend to replace low-cost
+‘data labellers’ with high-paid experts” https://www.ft.com/content/e17647f0-4c3b-49b4-
+a031-b56158bbb3b8
+The Wall Street Journal, July 31st, 2021. “Why Artificial intelligence Isn’t Intelligent”
+https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050
+Doordash Inc. 2025 “Causal Machine Learning for Promotions: Industry Evidence and
+Applications” https://causal-machine-learning.github.io/kdd2025-
+workshop/papers/16.pdf
+Financial Times, July 15th 2026. “How AI is reshaping supply chains”
+https://www.ft.com/content/3f773f4b-efaf-4bb4-953a-ff19863b2973
+The Economist, January 26th 2026 “Why AI won’t wipe out white-collar jobs”
+https://www.economist.com/finance-and-economics/2026/01/26/why-ai-wont-wipe-out-
+white-collar-jobs
+Privacy and Recording Notice
+To improve student optionality and the student learning experience, we may use live
+streaming and recording technology in our Haas MBA courses and events. Use of these
+technologies allow:
+• Students to participate in core and elective courses and Haas campus events (such
+as Dean’s Speaker Series events) remotely
+• Students to watch video recordings of classes and events they could not attend in
+person
+• Prospective students to observe first hand our unique Haas culture via live stream
+as they decide whether to apply to the MBA Programs or accept an offer of
+admission
+• Students to view course recordings for courses they are not enrolled in to help
+them decide on electives to enroll in or as an enrichment opportunity
+• Haas Alumni to audit Haas electives as part of the Haas lifelong learning
+proposition
+• Members of the Haas Community to engage or watch important BerkeleyHaas
+Events such as Dean Speaker Series events, lectures sponsored by Centers and
+Institutes, and ceremonies such as Commencement
+In recognition of these practices, the MBA Programs at Haas, events and class lectures
+may be live streamed via the internet and/or recorded.
+Live stream viewing of courses is available to:
+• Students registered in the course
+• Current UC Berkeley students (who may or may not be registered in the particular
+course)
+12
+• Haas alumni auditing courses, approved pursuant to UC Berkeley’s auditing
+policy
+• Prospective students approved in advance
+• Faculty/staff as appropriate under UC Berkeley policy
+Recordings of courses are available for viewing to:
+• Students registered in the course
+• Current UC Berkeley students (who may or may not be registered in the particular
+course)
+• Haas alumni auditing courses, approved pursuant to UC Berkeley’s auditing
+policy
+• Prospective students approved in advance
+• Faculty/staff as appropriate under UC Berkeley policy
+I understand that, as a result, my personally identifiable information may be disclosed to
+individuals with access to the livestream and/or recordings, as described above. The
+information may include: my name, my course enrollment and recordings of my
+participation in academic and extracurricular activities.
+I understand that my participation in events and class lectures will be recorded, and may
+involve the disclosure of personally identifiable information as described above.
+By enrolling in, or attending, any MBA courses, I acknowledge and consent to the
+terms of this Privacy and Recording Notice and provide my authorization to the
+practices and activities described above. This authorization will remain in effect until
+my graduation or departure from the MBA Program, whichever comes first.
+I understand that if I am concerned about my privacy in live-streamed or recorded
+courses or events, I can maximize my privacy by engaging in one or more of the
+following practices:
+• Modifying my display name to show only my first name and last initial or first
+name only
+• Using muted video to remain engaged and dialing in to the class to use audio by
+phone so that when I ask a question, my name and face will not be shown on the
+recording
+• Engaging via chat room rather than by asking questions by audio/video channels
+To discuss questions or concerns about the Privacy and Recording Notice, contact the
+appropriate MBA Program Office.
+For more information on privacy practices I can use during recorded or live streamed
+courses or events, contact UC Berkeley’s Student Technology Services
+The Federal Education Rights and Privacy Act (FERPA) is a law that governs access to
+educational information and records. Information specific to UC Berkeley is maintained
+by the Office of the Registrar and can be found here: FERPA (Privacy Disclosure).
+13
+For more information regarding UC Berkeley’s privacy policies, contact the Privacy
+Office.

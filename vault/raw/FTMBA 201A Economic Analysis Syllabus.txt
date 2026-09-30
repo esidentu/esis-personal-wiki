@@ -1,0 +1,193 @@
+FTMBA 201A: Economic Analysis for Business Decisions
+Course Syllabus: Fall 2026
+(Oprea sections: 03A Oski & 04A Axe)
+Version: August 23, 2026
+Instructor: Ryan Oprea
+Email: roprea@berkeley.edu
+Office hours: M and W 11:00–noon, F698
+Lecture sections (both meet MW in N370 Chou):
+Oski: 9:00–11:00 AM
+Axe: 2:00–4:00 PM
+GSI: Zac Pond
+Email: zac pond@berkeley.edu
+GSI Office hours: W 4:00–6:00 PM, F689
+Review/Discussion Section: F 1:30–3:00, N570 Chou
+Course description: Microeconomic analysis theorizes about how to identify the best choice out
+of a set of available alternatives. Such reasoning is fundamental to success in business, where intel
+ligent use of resources and systematic reasoning about opportunities and alternatives is essential.
+This course presents a curated set of key topics from microeconomic theory and applies them to
+businesses and other organizations. These topics include decision-making under uncertainty, eco
+nomic costs, pricing, and the basics of strategic interactions between competitors. The course will
+use readings and cases, along with class discussion, to develop practical insights into managing for
+competitive advantage.
+Key dates—subject to change:
+• Midterm (in class): Wednesday, September 16 — covers Lectures 1–6.
+• Final exam: Friday, October 16, 9:00–11:00 AM — Oski in N470, Axe in N570.
+• Problem sets: posted roughly weekly (ungraded practice — see “More on Problem Sets”).
+• Examples in the Wild: assigned in class and shared at the start of the following session.
+1
+I Grading
+Your final grade is based on six components.
+Participation: Participation counts for 30% of your grade. It is based on a combination of three
+inputs: attendance (measured through completion of the in-class iClicker quizzes described be
+low), an instructor rating of your in-class contribution, and peer review.
+Attendance is mandatory. Come to class prepared. Be on time. Don’t leave early. Be present.
+Keep your phone out of sight. Minimize things, like computer screens, that can distract your class
+mates. We know things come up, so one absence will be ignored when we calculate your class
+participation.
+Class participation enriches the learning experience. Participating (and being prepared to par
+ticipate) is essential to your own learning process. When you share insights, ask questions, and
+engage in respectful debate, this also helps others learn. Because people respond to incentives,
+class participation will figure in your course grade. Earning a good grade on participation requires
+preparedness and productive contribution. Quality trumps quantity, but a quantity of zero
+participation for the class is a problem. Questions are participation. There is absolutely such
+a thing as too much participation; dominating the conversation is generally a negative. Part of
+participation is being respectful to others. Some ways to recognize good contributions:
+• Relevance: is your comment on point? Is it clearly related to the case or topic at hand?
+• Progress: are your comments moving the class forward? We don’t have time to fully adjudi
+cate every interesting point, so sometimes we need to move forward.
+• Facts: are you pointing to facts from the readings, lecture or your experience?
+• Course concepts: are you using core concepts from the course to make your point?
+I may cold call during the class. You won’t be marked down for not having brilliant insights when
+cold called, so long as you are prepared (i.e., have read the material and are following the class
+conversation). If you find yourself struggling to participate in class discussions for any reason, talk
+to me in my office hours, after class, or via email.
+Quizzes: We will give short quizzes at the start of class, administered through iClicker. These
+quizzes collectively count for 10% of your final grade. They are designed to give you an early,
+low-stakes reality check on your grasp of the material and to preview the kinds of questions you
+will see on the exams. We will drop your lowest quiz score when computing this component.
+Completing each quiz also serves as your attendance record for the participation component.
+I will sometimes assign surveys or questions on bCourses that aim to prepare you for the day’s
+lecture. Completion of those items is part of coming to class prepared and will inform your partic
+ipation grade. Scoring on these items is strictly based on whether you completed the item, not on
+whether your answer was correct.
+Problem sets will be available for you to help practice with the course concepts and be prepared
+for exams. These are not graded, and they will not be collected. You may use AI on these if you
+2
+like—after all, we will be giving you the answers too. We will, however, ask you to attest that you
+have made use of the problem sets.
+We often have short polls and exercises during class, or short questions that you complete on
+bCourses before class. Where these are recorded, they will inform your participation grade.
+Exams: We will have a midterm and a final exam. This involves a traditional exam format, on
+paper, in person. The midterm is worth 15% of the course grade, and the final is worth 20% of the
+course grade. To reward improvement, if your final score is higher than midterm score (normalized),
+then the midterm will be downweighted to 10%, with the final upweighted to 25%.
+Group memo: You will also be required to produce a group project, which is a short memo.
+Examples in the wild: Microeconomics courses use simple mathematical models to make con
+ceptual points. You are unlikely to use most of the actual models in the real world, but they teach
+lessons that translate to actual decisions. “Examples in the wild” are brief exercises that ask you to
+identify examples of core class concepts to help facilitate that translation. You may not use AI
+for this assignment, and you may not search for the examples using the keywords. The whole
+point of these exercises are to get you to introspect about the core concepts and think for yourself
+about how they translate to real world situations that you identify. This component counts for
+10% of your grade and is graded on completion: each submission receives a check or no check, with
+a no check reserved for work that is missing or grossly inaccurate.
+Table 1: Grade composition
+Participation
+Quizzes (iClicker)
+Midterm
+Final
+Group Memo
+30%
+10%
+15%
+20%
+15%
+Examples in the Wild 10%
+Final grades in the course will be curved as per Haas policy and will approximately follow the
+distribution below:
+Table 2: Grade distribution
+A
+A-
+B+
+B
+18%
+22%
+28%
+22%
+B- or below 10%
+3
+Out of Class Communication: Formostemail questions, email our GSI who will get me involved
+if needed. If you think it is important to email me directly, please cc our GSI as well. I will typically
+be in the classroom prior to class to answer questions in person and will hold two office hour times
+for longer questions and discussions.
+II Course Materials
+Website: Materials will be made available for the course through the University’s bCourses inter
+face. A reading pack will be accessible through bCourses using the Study.net system. Problem sets
+and other supplementary materials will also be available through bCourses. Some class periods will
+require you to submit an answer to a focus question prior to the start of class using the bCourses
+system.
+Preparing for class: To be prepared for class, you must read any articles or cases listed in the
+syllabus before class. I will sometimes post a focus question before class on bCourses that is de
+signed to aid preparation. I may also post links to outside media and follow up material. Some
+will be posted before class and should be viewed beforehand for preparation. Others will serve as
+wrap up after class.
+Finally, the syllabus also lists content from supplementary texts, which you should read as back
+ground as you see fit. Particularly for those of you with a limited background in economics, you
+may want to have a textbook as a reference. Find a version that fits your purse and purpose.
+• Samuelson and Marks Managerial Economics, 9th Ed. (or 8th, or 7th)
+Page numbers below refer to the U.S. printing. There is also an “International Adaptation” of
+the 9th edition with the same chapters but different pagination—if you buy that one, navigate by
+chapter rather than by page.
+The second resource are class notes from a past instructor.
+• Hermalin Lecture Notes for 201A
+The Hermalin text comes from earlier versions of this course and so is particularly well aligned.
+4
+III Class Schedule
+• Lecture 1 (Mon 8/24): The double auction and competitive equilibrium– [Reading pack: TBD — net-new lecture]– Samuelson and Marks (SM) 9th Ed. Ch.1, Ch.7 to p. 208 (8th Ed. Ch.1, Ch.7 to p.
+224) (7th Ed. Ch.1, Ch.7 to p. 295)
+• Lecture 2 (Wed 8/26): The concept of economic cost– “Farms in Downtown Tokyo?!” (Hermalin)– “The Real Lessons From Kodak’s Decline” MIT Sloan Management Review Summer
+2016– Hermalin (H) pp. 29-37, pp. 44-46– SM9th: Ch.6 to p. 183 (8th: Ch.6 to p. 199) (7th: Ch.6 to p.255)
+• Lecture 3 (Mon 8/31): Cost curves and supply– Case: “John Deere Component Works (A)”– “Walmart’s Price Hikes Open Door to Increases From ‘Everybody Else’” Wall Street
+Journal May 15, 2025– “The High Cost of Low Wages” Cascio, Harvard Business Review December 2006– Hpp. 37-44, pp. 46-50, pp. 55-59– SM9th: p. 183-197 (8th: p. 199-213) (7th: p. 255-280)
+• Lecture 4 (Wed 9/2): Demand and comparative statics– Case: “The Effects of Uber’s Surge Pricing: A Case Study” Jonathan Hall, Cory
+Kendrick and Chris Nosko– Hpp. 59-70– SM 9th: Ch.3 to p. 69, pp. 208-226 (8th: Ch.3 to p. 77, pp. 224-242) (7th: Ch.3 to p.
+103, pp. 295-318)
+• Lecture 5 (Wed 9/9): Introduction to monopoly– “Are Diamonds Even a Luxury Anymore?” Wall Street Journal Podcast July 24, 2025– “Changing the Formula: Seeking Perfect Prices, CEO Tears Up the Rules” Wall Street
+Journal March 27, 2007– “The Dark Side of Costco’s Pricing Strategy” The Pricing Conundrum– Hpp. 51-55, pp. 70-92– SM9th: pp. 227-234 (8th: pp. 244-252) (7th: pp. 319-329)
+5
+• Lecture 6 (Fri 9/11 — Haas core make-up day): Price discrimination, part I:
+segment (group) pricing– “Airline Fare Riddle: One Route, Two Prices” Wall Street Journal Jan 7, 2015– “Consumers Hate ’Price Discrimination,’ but They Sure Love a Discount” DePillis, New
+York Times April 6, 2024– “The Devilish Change Uber and Lyft Made to Surge Pricing” Slate August 23, 2023– Hpp. 92-98– SM9th: pp. 69-72 (8th: pp. 78-81) (7th: pp. 99-103)
+• Lecture 7 (Mon 9/14): Price discrimination, part II: menu pricing– “Why Airlines Want to Make You Suffer” The New Yorker December 26, 2014– “You Can Make Your Mercedes EV Go Faster for $60 a Month” Valdes-Dapena, CNN
+Business, 4/27/2023– “Inside The New York Times’ Big Bet on Games” Vanity Fair February 2024– Hpp. 98-110– SM9th: pp. 278-281 (8th: pp. 299-302) (7th: pp. 392-396)
+• Midterm exam (Wed 9/16): in class — covers Lectures 1–6.
+• Lecture 8 (Mon 9/21): The long run and lessons in competition– Case: “Brand X” (Hermalin)– Excel file for Brand X– “LaCroix Fights Sales Drop as Competitors Bubble Up” Wall Street Journal June 26,
+2019– SM9th: pp. 239-243 (8th: pp. 257-261) (7th: pp. 336-341)
+• Lecture 9 (Wed 9/23): Decisions under uncertainty– Case: “Merck Pharma and Covid Vaccines” (Tadelis)– Hpp. 1-28– SM 9th: Ch.13 to p.388, Ch.14 to p. 406 (8th: Ch.12 to p.394, Ch.13 to p. 418) (7th:
+Ch.12 to p.519, Ch.13 to p.544)
+• Lecture 10 (Mon 9/28): Game theory as strategic thinking
+6
+– Hpp. 111-116– SM9th: Ch. 10 (8th: Ch. 10) (7th: Ch. 10)
+• Lecture 11 (Wed 9/30): Oligopoly and the Bertrand trap– “Big Tech’s $400 Billion AI Spending Spree Just Got Wall Street’s Blessing” Wall Street
+Journal July 31, 2025– “Uber and Lyft are locked in a price war. There are only two ways out.” Washington
+Post April 30, 2019– Hpp. 116-124– SM9th: pp. 262-267, Ch.14 pp. 417-423, Ch. 18 (8th: pp. 282-287, Ch.13 pp. 429-437,
+Ch. 17) (7th: pp. 368-375, Ch. 16)
+• Lecture 12 (Mon 10/5): Cooperation, collusion, and entry deterrence– “Beware Algorithms that Could Collude on Prices” Wall Street Journal April 1, 2019– “Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices” Mattioli, Wall Street
+Journal, Oct 3, 2023– Hpp. 124-133– SM9th: Ch.9 (8th: Ch.9) (7th: Ch.9)
+• Lecture 13 (Wed 10/7): When markets fail (and course wrap-up)– “Researchers reveal a hidden factor in California’s insurance crisis: The ‘winner’s curse”’
+UC Berkeley News July 18, 2024.– “The Agony of Victory and the Thrill of Defeat” The New Yorker January 1, 2001– SM9th: Ch.15 (8th: Ch.14) (7th: Ch.14)
+• Final exam: Friday, October 16, 9:00–11:00 AM — Oski in N470, Axe in N570.
+7
+IV A note on AI
+You are welcome (and encouraged) to explore and use various artificial intelligence (AI) tools for
+your study purposes in this class. These tools can enhance your learning, facilitate creative think
+ing, and promote informed discussion.
+However, AI use will be strictly prohibited for in class exams. You are also not allowed to use AI
+on Examples in the Wild.
+V More on Problem Sets
+Problem sets are your main practice ground outside of class, alongside the cases and the GSI’s
+discussion sections (attendance optional). They are not graded and not collected; we post full
+answer keys, and you are welcome to use AI on them. The point is simply to build fluency for the
+exams and to practice thinking like an economist.
+There is roughly one problem set per week, each covering about two lectures. Every set has two
+parts:
+• AFundamentals Check: short questions in the spirit of the exam — quick conceptual and
+computational items to confirm you have the core ideas down. If you can do these comfortably,
+you are in good shape for the exam.
+• AGo Deeper section: a couple of longer, more challenging problems for those who want to
+stretch further. These are optional enrichment, not a preview of a harder exam.
+Work the Fundamentals Check on every set; treat Go Deeper as a stretch. Try the problems on your
+own before checking the answer key or working with others—otherwise you may get a misleading
+signal about your preparedness.
+8

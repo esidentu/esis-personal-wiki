@@ -1,0 +1,85 @@
+The Sustainability of AI and AI for Sustainability: Confronting the Paradox of Responsible Innovation
+Overview
+
+Artificial intelligence is often described as immaterial: software, algorithms, models, data. In reality, today’s most powerful AI systems run on electricity, water, land, and minerals at planetary scale. The models that write emails, predict storms, and optimize supply chains now draw as much power as small cities—and sometimes more.
+
+The International Energy Agency estimates that global data-center electricity demand could exceed 1,500 terawatt-hours by 2030, roughly equivalent to Japan’s total annual consumption, with AI workloads responsible for a rapidly growing share. Cooling these systems requires millions of liters of water per day in places like Arizona, Ireland, and Singapore. Meanwhile, the chips that power AI rely on minerals extracted from ecologically fragile regions across the Global South. And so on…
+
+This material and societal footprint of AI has forced a reckoning. AI is no longer just a digital technology; it is becoming a form of global infrastructure. Whether it accelerates progress on sustainable development or undermines it may be one of the defining questions of the decade.
+
+At the same time, AI is emerging as one of the most powerful tools ever developed for tackling sustainability challenges including poverty, resource depletion, health disparities and climate change. The same algorithms driving explosive energy demand are also helping forecast extreme weather, optimize renewable grids, reduce industrial emissions, monitor ecosystems, and increase quality of life in real time.
+
+This tension—between the sustainability of AI itself and AI for sustainability—now sits at the heart of responsible innovation, technology policy, ethical engineering, business transformation, investment strategy, and planetary governance. This ‘double-edged helix’, where the promise of sustainability is inextricably wound with new forms of socio-technical risks, creates an urgent and compelling agenda for scholarship.
+
+Confronting the paradox requires critically analyzing the manifold effects of envisioned AI applications [1], tracing material and social underpinnings of AI, including its reliance on natural resource extraction and low-wage labor [2], and developing frameworks and practices to address such considerations in engineering and entrepreneurial practices [3,4].
+
+Building on interdisciplinary perspectives, this edited collection for the Journal of Responsible Innovation (JRI) will directly address this paradox. It proceeds from the premise that the relationship between AI and sustainability cannot be understood through a simple cost-benefit analysis; it must be examined through the interdisciplinary lens of responsible innovation, attending to the core principles of anticipation, reflection, inclusion, and responsiveness. The central question is not merely whether AI can contribute to sustainability, but how we can collectively shape its development and deployment to ensure that it does so in a manner that is equitable, just, and genuinely sustainable for all.
+
+In concert with JRI's focus on the governance, practice, and assessment of knowledge-based innovation [5], we invite contributions that move beyond techno-optimistic narratives and that critically examine the political, economic, and cultural structures that will shape this nexus. We invite interested scholars to dissect the two critical, intertwined dimensions of this challenge [6]:
+
+AI for Sustainability: Critically assessing the application of AI to solve environmental problems in key sectors.
+The Sustainability of AI: Investigating the environmental and social footprint of AI systems themselves and the governance required to mitigate it.
+
+By curating a dialogue across these themes, the edited collection will provide landmark contributions to both responsible innovation scholarship and global practices that will profoundly shape economies, societies and environments for decades to come.
+
+Thematic Structure and Guiding Questions
+
+We invite contributions in the form of cross-cutting analyses supplemented by critical vertical deep-dives. In addition to JRI’s double-blind peer review process, and to ensure a coherent, high-quality, and interdisciplinary volume where contributions are in direct conversation with one another, a sub-set of selected authors will participate in a dedicated workshop mostly to be held around July or August 2026. Each invited article will be expected to engage directly with the scholarly field and principles of responsible innovation.
+
+Cross-Cutting Themes
+
+The edited collection will feature contributions that address overarching themes on the Sustainability of AI and AI for Sustainability, including but not limited to:
+
+Governance and Regulation: What novel regulatory frameworks are needed for the dual challenge of AI and sustainability? This includes exploring standards for transparency in reporting AI’s environmental footprint and the geopolitics of sustainable AI.
+Innovation and Entrepreneurship: Exploring new methods of AI systems and frameworks for responsible experimentation and entrepreneurship in real-world sustainability projects. These include various forms of interdisciplinary and cross-sectoral collaborations especially public-private partnerships and social enterprises.
+Justice, Equity, and Inclusion: How do the benefits and burdens of the Sustainability of AI and AI for sustainability distribute across the Global North and South, and across different communities within societies?
+Techno-Optimism: Moving beyond a focus on "fixing" sustainability problems with technology to ask more fundamental questions about the political and economic systems that AI operates within. As scholars of sustainable AI argue, we must avoid framing the problem as one that can be solved without questioning the underlying logic of exponential growth.
+
+We welcome other types and forms of cross-cutting examinations such as new business models, forms of leadership, transformed engineering practices, among others.
+
+Verticals (Industries, Sectors, Fields)
+
+We are interested in attempts to address the AI-Sustainability nexus in numerous sectors and industries, such as manufacturing, retail, mining, finance, etc., and fields, such as smart cities and carbon removal.  Below we provide more detailed in four of these as models and examples of the types and forms of scholarship we seek.
+
+Vertical 1: Energy and Decarbonization
+
+The energy sector is a primary site for both the application and consumption of AI. While AI can optimize smart grids and enhance the efficiency of renewable energy integration, the energy demand of data centers is projected to soar. As one report notes, "data centers consumed an estimated 1-1.5% of global electricity use in 2022," a figure that is rapidly climbing with the proliferation of generative AI [7].
+
+Guiding Questions:
+
+How can responsible innovation frameworks and approaches guide the governance of AI-enabled smart grids to ensure equitable distribution of benefits and avoid reinforcing existing energy inequalities?
+What policy mechanisms (e.g., transparent reporting standards, carbon pricing for computation) are needed to make the tech sector accountable for the energy footprint of its AI models?
+Beyond technical efficiency (e.g., Google's 40% reduction in cooling energy [8]), how can we foster a culture of "algorithmic frugality" in AI development to prioritize lower-energy models?
+
+Vertical 2: Water Resources and Security
+
+AI offers transformative potential for managing our planet's most vital resource, from leak detection in aging urban infrastructure to precision irrigation in agriculture. However, the "water footprint of AI is an emerging concern," with large data centers consuming vast quantities of water for cooling, often in already water-stressed regions [9]. Training a model like GPT-3, for instance, is estimated to have consumed 700,000 liters of fresh water [10].
+
+Guiding Questions:
+
+Who owns the data in AI-driven water management systems, and how can we ensure that smallholder farmers or marginalized communities benefit from, rather than being exploited by, data-driven optimization?
+What are the anticipated environmental and societal effects of hyper-efficient, AI-managed irrigation on local ecosystems and downstream water rights?
+How should the principle of responsiveness be applied to the siting of data centers, ensuring that decisions reflect local water availability, community consent, and environmental justice concerns?
+
+Vertical 3: Agriculture and Food Systems
+
+AI-powered precision agriculture promises to increase crop yields while reducing the use of water, fertilizers, and pesticides, with some platforms demonstrating a potential "25% reduction in water use" and a "20% increase in crop yields" [11]. Yet this technological shift also raises profound questions about the future of farming, labor, and food sovereignty.
+
+Guiding Questions:
+
+How does the rise of AI-driven agriculture impact the autonomy and economic viability of small-scale farmers versus large agribusinesses?
+What are the social and ethical implications of entrusting food production to opaque algorithms, and what modes of inclusion are necessary to ensure these systems are aligned with diverse public values?
+How can we anticipate and mitigate the potential for AI to create new forms of lock-in, where farmers become dependent on proprietary data platforms and hardware?
+
+Vertical 4: Transportation and Smart Cities
+
+AI is at the heart of efforts to create more sustainable urban futures, from optimizing traffic flow to managing shared mobility networks and enabling autonomous vehicles. These innovations promise to reduce congestion and emissions. However, they also pose risks related to surveillance, algorithmic bias, and the privatization of public infrastructure.
+
+Guiding Questions:
+
+How can smart city initiatives be co-designed with citizens to ensure that AI-driven transportation systems serve public interests and enhance accessibility for all, rather than primarily benefiting commercial actors?
+What reflexive governance mechanisms are needed to address the potential for "rebound effects" [12], where the efficiency gains from AI lead to increased overall travel and energy consumption?
+How do we embed principles of justice, fairness, and sustainability into the algorithms that govern urban mobility, ensuring they do not perpetuate or exacerbate existing spatial and social inequalities?
+Anticipated Impact
+
+This edited collection will deliver a foundational and agenda-setting collection of scholarship at the nexus of two of the most defining issues of our time. It will provide a uniquely critical and constructive perspective, grounded in the normative commitments of responsible innovation. For the readers of JRI, it will offer a deeply interdisciplinary analysis that connects technology assessment, governance studies, ethics, innovation studies, transition studies, and sustainability science. For policymakers, technologists, and civil society, it will provide a crucial resource for navigating the complex trade-offs and opportunities ahead. By charting a course for an age of responsible innovation in AI-driven sustainability, this volume will make a lasting contribution to shaping a more just, inclusive and prosperous future.

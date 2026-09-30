@@ -1,0 +1,51 @@
+CLAUDIA ESI DENTU
+[REDACTED] • [REDACTED] • linkedin.com/in/claudiadentu23 • esi-dentu.vercel.app
+EDUCATION
+University of California, Berkeley, Haas School of Business	May 2028
+Master of Business Administration (MBA)
+•	Haas merit-based scholarship recipient, awarded to less than 10% of students for academic excellence
+ 
+Ashesi University, Berekuso, Ghana	May 2020
+BSc Business Administration, Cum Laude Honors (First Class) 
+•	Co-Lead: Student Council Finance Committee; Ashesi Dean’s List for high performing students
+ 
+EXPERIENCE
+MTN, Ghana	June 2026-Aug 2026
+Subsidiary of MTN Group, Africa’s largest Telecom and Fintech serving 300M+ subscribers with $12B in revenue
+Product Delivery Manager
+•	Owned the product roadmap and led 3 cross-functional squads to revive and launch a stalled enterprise commerce and lead management solution in 3 months, improving lead-to-order time by 68%
+•	Prioritized 26 Group-level AI use cases by business impact and feasibility, and launched the first; 	an internal HR agent now resolving 80% of employee inquiries
+•	Drove AI enablement across 10 departments, training 200+ employees to build agentic solutions tied to their KPIs and business impact, enabling 6 commercial teams to ship their own AI agents
+Telecel, Accra, Ghana	Oct 2023-May 2026
+Formerly Vodafone Group PLC - A Multinational Telecommunications & Fintech Company
+Product Manager - Fixed Products, Propositions & Pricing 
+•	Owned product strategy from concept to launch for a fintech marketplace serving 200k+ broadband customers, consolidating fragmented lifestyle services and onboarding 20+ partners to drive $20M in annual transactions
+•	Drove the establishment of Telecel Ghana's AI Center of Excellence, defining organizational structure, governance strategy, and solutions architecture; built the operating model now used to scale AI across the business
+•	Established Telecel’s AI Center of Excellence, defining organizational structure, governance strategy, and solutions architecture; secured executive alignment on the operating model now used to scale AI across the business
+•	Shaped product positioning and restructured pricing tiers by analyzing performance across 100+ mobile and broadband products (1M+ subscribers) to close revenue leakage and pricing gaps, driving 10% ARPU growth
+•	Shaped product positioning and restructured pricing tiers by pairing performance analysis across 100+ mobile and broadband products (1M+ subscribers) with customer interviews, closing pricing gaps to drive 10% ARPU growth
+•	Redesigned broadband payment journeys by translating customer friction data into product requirements and integrating 6 payment networks (USSD, App, Web), lifting payment success from 65% to 90% and revenue 12%
+•	Redesigned payment journeys by translating customer friction data into product requirements and integrating 6 payment networks across USSD, App, and Web, lifting payment success from 65% to 90% and revenue by 12%
+•	Drove 8.9% year-on-year revenue growth in FY25 through end-to-end broadband product development, leveraging customer insights, market research, and optimized pricing models
+•	Led the rebranding and go-to-market of the Fixed Portfolio from Vodafone to Telecel, driving product planning and cross functional execution to establish a cohesive brand identity and increase brand awareness by 70%
+•	Spearheaded a partnership with Paystack and Telecel’s digital channel teams to enhance payment portal effectiveness and SEO performance, resulting in a 40% increase in annual transaction value, and a 60% reduction in payment processing time
+•	Selected Paystack, a Stripe company, as a payment processor after evaluating alternatives across cost, capabilities, and reliability, building the business case for senior management and negotiating processing fees from 3% to 1.5%
+•	Led the end-to-end development and launch of broadband products by identifying customer needs, conducting market research, analyzing trends and optimizing pricing models, resulting in a 20% annual revenue growth. 
+•	Led the go-to-market strategy for 15+ broadband product launches, collaborating cross-functionally with finance, technology and marketing teams to execute campaigns that drove over 40% growth in customer acquisitions and engagements by 35%
+Digital Product Analyst - Discover Management Trainee	Sept 2021-Sept 2023
+•	Awarded the Vodafone Digital Transformation Award (top 5%) for redesigning a SIM re-registration flow, using drop-off analysis to eliminate KYC failure points and simplify data capture; improved customer satisfaction 25%
+•	Led agile product development for Vodafone’s mobile app redesign, coordinating a 10-member team to ship an MVP and subsequent releases; doubled downloads and grew annual transaction value 30%
+•	Built an RPA solution to automate Vodafone mobile money agent and merchant onboarding; reduced processing time from 72 to 24 hours and accelerated agent network growth by 104% on Vodafone's fintech platform
+•	Led the cleanup and migration of 1M enterprise business data from legacy (traditional) systems to an agile environment (JIRA), by standardizing the data across all platforms, improving process delivery by 60%, and data clarity by 50%.
+Ghana National Petroleum Corporation, Tema, Accra	Jan 2021-Aug 2021
+Finance and Digital Administration Analyst 
+•	Developed a cost-saving initiative across 8 departments, delivering $2M in OPEX savings by standardizing hybrid work model, consolidating in-office schedules, and driving adoption through targeted change management
+•	Led a cost-optimization advisory engagement across eight departments, delivering $2M in OPEX savings by standardizing the hybrid work model, consolidating in-office schedules, and driving adoption
+•	Spearheaded agile transformation initiative, streamlining workflows and cross-functional collaboration through agile tools adoption, enabling remote work transition, and reducing communication delays by 25% across teams
+ 
+ADDITIONAL
+•	Certifications: AI Product Management Specialization (Duke University), Professional Scrum Product Owner, Professional Scrum Master, FINEX Excel & Financial Modelling
+•	Extra-curriculars: Founder, Mbrace Africa, advancing career and technology capability for youth, especially women; Head of Partnerships, Agile in Africa Conference; Ghana Strategy Lead, Winko Solar
+•	Extra-curriculars: Founder, Mbrace Africa, advancing career and technology capability for youth, especially women; Head of Partnerships, Agile in Africa Conference; Ghana Strategy Lead (2023-Present), Winko Solar, powered 3 rural hospitals and delivered solar training in 4 university curricula for 3,000+ students 
+•	Technical Skills: Microsoft Office Suite (Advanced), SQL, Google Workspace, Jira, AI-Assisted Prototyping & Development (Claude Code, Codex, Lovable, Copilot)
+•	Interests: Mixology, Filmmaking, and Travel (visited 3 continents, 6 countries, all 16 Ghana regions

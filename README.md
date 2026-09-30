@@ -202,12 +202,19 @@ To verify: disconnect from the internet, then run `python wiki.py search "pricin
 
 ## Obsidian Screenshots
 
-To view the wiki in Obsidian:
+To view the wiki in Obsidian, select "Open folder as vault" and choose the `vault/` directory.
 
-1. Open Obsidian and select "Open folder as vault" → choose the `vault/` directory
-2. Browse `index.md` for topic-organized navigation
-3. Open any wiki page to see source references and `[[related note]]` links
-4. Use Graph View (filter: `path:wiki/`) to see readable labels and connections
+### 1. Wiki Note with Source References and Related Links
+
+![Wiki note](data/evidence/obsidian_note.png)
+
+### 2. Topic-Organized Index
+
+![Index page](data/evidence/obsidian_index.png)
+
+### 3. Graph View
+
+![Graph view](data/evidence/obsidian_graph.png)
 
 ## Reflection
 

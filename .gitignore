@@ -5,3 +5,4 @@ data/chroma/
 *.egg-info/
 .env
 Document Sources/
+vault/.obsidian/

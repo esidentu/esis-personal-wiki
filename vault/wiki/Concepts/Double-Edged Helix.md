@@ -4,7 +4,8 @@ The ‘double-edged helix’ describes the complex relationship between AI and s
 
 ## Key Details
 
-['The promise of sustainability is inextricably wound with new forms of socio-technical risks.', 'It creates an urgent and compelling agenda for scholarship.']
+- The promise of sustainability is inextricably wound with new forms of socio-technical risks.
+- It creates an urgent and compelling agenda for scholarship.
 
 ## Source
 

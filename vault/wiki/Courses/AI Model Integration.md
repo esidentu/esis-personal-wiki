@@ -4,7 +4,9 @@ The course integrates advanced AI models, such as Gemini, ChatGPT, and Claude, i
 
 ## Key Details
 
-['Students utilize AI models for data analysis.', 'This approach complements traditional statistical methods.', 'The integration of AI models enhances decision-making capabilities.']
+- Students utilize AI models for data analysis.
+- This approach complements traditional statistical methods.
+- The integration of AI models enhances decision-making capabilities.
 
 ## Source
 

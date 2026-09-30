@@ -4,7 +4,9 @@ Claudia Esi Dentu's involvement in the Ashesi University Student Council, specif
 
 ## Key Details
 
-['Served as Co-Lead of the Student Council Finance Committee.', 'Managed the financial operations of the student body.', 'Dean’s List recognition for high-performing students.']
+- Served as Co-Lead of the Student Council Finance Committee.
+- Managed the financial operations of the student body.
+- Dean’s List recognition for high-performing students.
 
 ## Source
 

@@ -4,7 +4,9 @@ At MTN Ghana, Claudia Dentu spearheaded the revitalization of a stalled enterpri
 
 ## Key Details
 
-['Led a cross-functional squad to revive and launch a stalled enterprise commerce solution.', 'Improved lead-to-order time by 68% through strategic product development.', 'Implemented AI solutions for employee inquiries, resolving 80% of inquiries automatically.']
+- Led a cross-functional squad to revive and launch a stalled enterprise commerce solution.
+- Improved lead-to-order time by 68% through strategic product development.
+- Implemented AI solutions for employee inquiries, resolving 80% of inquiries automatically.
 
 ## Source
 

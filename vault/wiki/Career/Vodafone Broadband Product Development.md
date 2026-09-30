@@ -4,7 +4,9 @@ During her time at Vodafone, Claudia Dentu led the development and launch of bro
 
 ## Key Details
 
-['Drove 8.9% year-on-year revenue growth through broadband product development.', 'Redesigned broadband payment journeys, increasing payment success to 90% and revenue by 12%.', 'Led the rebranding and go-to-market strategy for the Fixed Portfolio.']
+- Drove 8.9% year-on-year revenue growth through broadband product development.
+- Redesigned broadband payment journeys, increasing payment success to 90% and revenue by 12%.
+- Led the rebranding and go-to-market strategy for the Fixed Portfolio.
 
 ## Source
 

@@ -4,7 +4,9 @@ The course utilizes various data analysis software packages, including Stata, Ex
 
 ## Key Details
 
-['Stata is offered with student licenses.', 'Microsoft Excel is recommended for in-class exercises.', 'R, SAS, SPSS, Matlab, and Python are also supported.']
+- Stata is offered with student licenses.
+- Microsoft Excel is recommended for in-class exercises.
+- R, SAS, SPSS, Matlab, and Python are also supported.
 
 ## Source
 

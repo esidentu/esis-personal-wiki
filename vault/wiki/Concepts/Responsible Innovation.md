@@ -4,7 +4,9 @@ Responsible innovation emphasizes a holistic approach to technological developme
 
 ## Key Details
 
-['The tension between the sustainability of AI and AI for sustainability is central to responsible innovation.', 'It necessitates critically analyzing AI applications and their underlying material and social underpinnings.', 'Frameworks and practices are needed to address these considerations in engineering and entrepreneurial practices.']
+- The tension between the sustainability of AI and AI for sustainability is central to responsible innovation.
+- It necessitates critically analyzing AI applications and their underlying material and social underpinnings.
+- Frameworks and practices are needed to address these considerations in engineering and entrepreneurial practices.
 
 ## Source
 

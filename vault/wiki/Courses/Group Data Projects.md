@@ -4,7 +4,9 @@ Students will complete group data projects as an alternative to the midterm exam
 
 ## Key Details
 
-['Group projects replace the midterm exam.', 'Students work with study groups.', 'Deliverables are submitted within one week.']
+- Group projects replace the midterm exam.
+- Students work with study groups.
+- Deliverables are submitted within one week.
 
 ## Source
 

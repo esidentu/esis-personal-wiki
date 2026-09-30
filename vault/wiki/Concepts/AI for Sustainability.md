@@ -4,7 +4,11 @@ Artificial intelligence is increasingly being utilized to address sustainability
 
 ## Key Details
 
-['AI is used to forecast extreme weather.', 'AI optimizes renewable energy grids.', 'AI reduces industrial emissions.', 'AI monitors ecosystems.', 'AI increases quality of life in real time.']
+- AI is used to forecast extreme weather.
+- AI optimizes renewable energy grids.
+- AI reduces industrial emissions.
+- AI monitors ecosystems.
+- AI increases quality of life in real time.
 
 ## Source
 

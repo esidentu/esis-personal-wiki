@@ -4,7 +4,9 @@ This page introduces the core principles of microeconomic analysis, focusing on 
 
 ## Key Details
 
-['Microeconomic analysis focuses on how individuals and firms make decisions.', 'Key topics include decision-making under uncertainty, economic costs, pricing, and strategic interactions.', 'The course uses readings and cases to develop practical insights into competitive advantage.']
+- Microeconomic analysis focuses on how individuals and firms make decisions.
+- Key topics include decision-making under uncertainty, economic costs, pricing, and strategic interactions.
+- The course uses readings and cases to develop practical insights into competitive advantage.
 
 ## Source
 

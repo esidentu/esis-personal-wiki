@@ -4,7 +4,9 @@ Active classroom participation is essential, including being on time, engaging i
 
 ## Key Details
 
-['Attendance is required and tracked via iClickers.', 'Late arrivals are disruptive and discouraged.', 'Cold-calling (warm calling) is used to assess student understanding.']
+- Attendance is required and tracked via iClickers.
+- Late arrivals are disruptive and discouraged.
+- Cold-calling (warm calling) is used to assess student understanding.
 
 ## Source
 

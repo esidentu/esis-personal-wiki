@@ -4,7 +4,10 @@ Artificial intelligence systems, particularly large models, consume significant 
 
 ## Key Details
 
-['AI models (emails, storms, supply chains) consume as much power as small cities.', 'Global data-center electricity demand could exceed 1,500 terawatt-hours by 2030.', 'Cooling systems require millions of liters of water per day (Arizona, Ireland, Singapore).', 'AI chips rely on minerals extracted from ecologically fragile regions across the Global South.']
+- AI models (emails, storms, supply chains) consume as much power as small cities.
+- Global data-center electricity demand could exceed 1,500 terawatt-hours by 2030.
+- Cooling systems require millions of liters of water per day (Arizona, Ireland, Singapore).
+- AI chips rely on minerals extracted from ecologically fragile regions across the Global South.
 
 ## Source
 

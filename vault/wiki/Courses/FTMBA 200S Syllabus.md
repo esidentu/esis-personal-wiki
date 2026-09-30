@@ -4,7 +4,10 @@ This syllabus outlines the course structure, materials, and expectations for FTM
 
 ## Key Details
 
-['Course covers statistical tests, confidence intervals, and regression models.', 'Focuses on interpretation and inference rather than formula memorization.', 'Utilizes AI model interfaces (Gemini, ChatGPT, Claude) for data analysis.', 'Requires data work using statistical software (Stata, Excel, R, SAS, SPSS, Matlab, Python).']
+- Course covers statistical tests, confidence intervals, and regression models.
+- Focuses on interpretation and inference rather than formula memorization.
+- Utilizes AI model interfaces (Gemini, ChatGPT, Claude) for data analysis.
+- Requires data work using statistical software (Stata, Excel, R, SAS, SPSS, Matlab, Python).
 
 ## Source
 

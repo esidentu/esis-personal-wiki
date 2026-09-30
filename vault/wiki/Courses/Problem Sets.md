@@ -4,7 +4,9 @@ This page explains the use of ungraded problem sets to help students practice wi
 
 ## Key Details
 
-['Ungraded practice exercises.', 'Available for student use.', 'AI use is permitted.']
+- Ungraded practice exercises.
+- Available for student use.
+- AI use is permitted.
 
 ## Source
 

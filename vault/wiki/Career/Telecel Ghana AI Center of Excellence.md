@@ -4,7 +4,9 @@ Claudia Dentu established and defined the operational model for Telecel Ghana’
 
 ## Key Details
 
-['Defined organizational structure, governance strategy, and solutions architecture.', 'Enabled AI enablement across 10 departments, training 200+ employees.', 'Scaled AI solutions across the business using the established operating model.']
+- Defined organizational structure, governance strategy, and solutions architecture.
+- Enabled AI enablement across 10 departments, training 200+ employees.
+- Scaled AI solutions across the business using the established operating model.
 
 ## Source
 

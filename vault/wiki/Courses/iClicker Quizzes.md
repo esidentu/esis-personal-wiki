@@ -4,7 +4,10 @@ This page describes the use of iClicker quizzes for attendance tracking and to p
 
 ## Key Details
 
-['Administered at the start of class.', 'Collectively count for 10% of the final grade.', 'Lowest score dropped when computing the component.', 'Used as attendance record for participation component.']
+- Administered at the start of class.
+- Collectively count for 10% of the final grade.
+- Lowest score dropped when computing the component.
+- Used as attendance record for participation component.
 
 ## Source
 

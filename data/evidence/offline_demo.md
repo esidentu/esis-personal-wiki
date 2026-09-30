@@ -1,11 +1,8 @@
 # Offline Demonstration
 
-**Date:** 2026-09-29 23:01
+**Date:** 2026-09-29 23:04
 **Python:** 3.12.10
-**Internet connected:** YES - DISCONNECT BEFORE RUNNING
-
-> WARNING: Internet is still connected. Disconnect WiFi/Ethernet and rerun this script.
-> The test results below are still valid (all local), but offline status is not verified.
+**Internet connected:** No (verified offline)
 
 ---
 
@@ -115,16 +112,13 @@ Generating answer...
 
 +---------------------------------- Answer -----------------------------------+
 | The Economic Analysis course is graded using three components: [Source:     |
-| FTMBA 201A, Section: Exams]. The midterm exam is worth 15% of the course    |
-| grade, and the final exam is worth 20% [Source: FTMBA 201A, Section:        |
-| Exams]. Additionally, a group project, a short memo, contributes to the     |
-| grade [Source: FTMBA 201A, Section: Group memo].                            |
-|                                                                             |
-| The Data and Decisions course is graded as follows: [Source: Data and       |
-| Decisions, Section: Grading:]. 10% is based on attendance tracked using     |
-| iClickers, with a maximum of one missed class without penalty. 50% is       |
-| determined by the simple average of the take-home deliverables for group    |
-| projects, and 40% is based on the final in-person exam.                     |
+| FTMBA 201A, Section: Exams]. The midterm is worth 15% of the course grade,  |
+| and the final is worth 20%. Additionally, a group project is required,      |
+| which is a short memo [Source: FTMBA 201A, Section: Group memo]. The Data   |
+| and Decisions course is graded as follows: 10% Attendance [Source: Data and |
+| Decisions, Section: Grading], 50% Group Projects [Source: Data and          |
+| Decisions, Section: Grading], and 40% Final Exam [Source: Data and          |
+| Decisions, Section: Grading].                                               |
 +---------------------- Model: gemma3:4b | Mode: local -----------------------+
 ```
 
@@ -185,7 +179,7 @@ Generating answer...
 | The wiki does not contain sufficient evidence to answer this question. The  |
 | passage regarding Claudia E Dentu’s education states she received a BSc     |
 | Business Administration, Cum Laude Honors at Ashesi University, but does    |
-| not provide her GPA at Berkeley Haas.                                       |
+| not provide her GPA at UC Berkeley Haas.                                    |
 +---------------------- Model: gemma3:4b | Mode: local -----------------------+
 ```
 
@@ -214,4 +208,4 @@ Commands:
 
 ## 7. Internet Status Verification
 
-Internet reachable at end of test: **Yes**
+Internet reachable at end of test: **No (offline confirmed)**

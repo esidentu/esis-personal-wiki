@@ -1,11 +1,8 @@
 # Offline Demonstration
 
-**Date:** 2026-09-29 22:39
+**Date:** 2026-09-29 22:49
 **Python:** 3.12.10
-**Internet connected:** YES - DISCONNECT BEFORE RUNNING
-
-> WARNING: Internet is still connected. Disconnect WiFi/Ethernet and rerun this script.
-> The test results below are still valid (all local), but offline status is not verified.
+**Internet connected:** No (verified offline)
 
 ---
 
@@ -126,8 +123,9 @@ Generating answer...
 |  • 40% Final Exam, which is in person [Source: FTMBA 201A Economic Analysis |
 |    Syllabus.txt, Section: Exams].                                           |
 |                                                                             |
-| The letter grade for each student is determined based on an academic curve  |
-| [Source: FTMBA 201A Economic Analysis Syllabus.txt, Section: Grading:].     |
+| The letter grade for each student is determined by an academic curve based  |
+| on the numerical scores of the entire class [Source: FTMBA 201A Economic    |
+| Analysis Syllabus.txt, Section: Grading:].                                  |
 +---------------------- Model: gemma3:4b | Mode: local -----------------------+
 ```
 
@@ -162,11 +160,13 @@ Generating answer...
 | Syllabus.txt, Section: Students in this course are allowed to use           |
 | generative AI tools provided for certain assignments and may use other      |
 | generative AI tools unless specifically prohibited for a) ]. The use of AI  |
-| is strictly forbidden on the Final Exam, and any use during the Final Exam  |
-| will trigger an automatic Failing Grade [Source: Data and Decisions         |
-| Syllabus.txt, Section: Specifically, the use of AI is strictly forbidden on |
-| the Final Exam. Any use of AI during the Final Exam will trigger an         |
-| automatic Failing Grade on the course].                                     |
+| is strictly forbidden on the Final Exam, and any use of AI during the Final |
+| Exam will trigger an automatic Failing Grade on the course [Source: Data    |
+| and Decisions Syllabus.txt, Section: Specifically, the use of AI is         |
+| strictly forbidden on the Final Exam. Any use of AI during the Final Exam   |
+| will trigger an automatic Failing Grade on the course]. AI use is strictly  |
+| prohibited for in-class exams and Examples in the Wild [Source: FTMBA 201A  |
+| Economic Analysis Syllabus.txt, Section: IV A note on AI].                  |
 +---------------------- Model: gemma3:4b | Mode: local -----------------------+
 ```
 
@@ -193,7 +193,7 @@ Generating answer...
 | The wiki does not contain sufficient evidence to answer this question. The  |
 | passage regarding Claudia Esi Dentu’s education states she received a BSc   |
 | Business Administration, Cum Laude Honors (First Class) at Ashesi           |
-| University, but does not provide her GPA at UC Berkeley Haas.               |
+| University, but does not specify her GPA at UC Berkeley Haas.               |
 +---------------------- Model: gemma3:4b | Mode: local -----------------------+
 ```
 
@@ -222,4 +222,4 @@ Commands:
 
 ## 7. Internet Status Verification
 
-Internet reachable at end of test: **Yes**
+Internet reachable at end of test: **No (offline confirmed)**

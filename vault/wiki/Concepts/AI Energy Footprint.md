@@ -1,13 +1,10 @@
 # AI Energy Footprint
 
-Artificial intelligence systems, particularly large models, consume significant amounts of electricity, water, and land, often rivaling the energy consumption of small cities. This growing demand is driven by increasing workloads and the need for cooling, alongside the reliance on mined minerals. 
+Artificial intelligence systems, particularly large models, consume significant amounts of electricity, water, and land, often comparable to the energy consumption of small cities. This highlights the material and societal impact of AI as a global infrastructure.
 
 ## Key Details
 
-- AI models (emails, storms, supply chains) consume as much power as small cities.
-- Global data-center electricity demand could exceed 1,500 terawatt-hours by 2030.
-- Cooling systems require millions of liters of water per day (Arizona, Ireland, Singapore).
-- AI chips rely on minerals extracted from ecologically fragile regions across the Global South.
+['AI models draw as much power as small cities—and sometimes more.', 'Global data-center electricity demand could exceed 1,500 terawatt-hours by 2030.', 'Cooling systems require millions of liters of water per day (Arizona, Ireland, Singapore).']
 
 ## Source
 

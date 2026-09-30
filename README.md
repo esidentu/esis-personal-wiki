@@ -88,7 +88,16 @@ python wiki.py --help
 
 **Why Gemma 3 4B?** With 14.7 GB total RAM on an integrated AMD APU, the 4B model (~4.5 GB at Q4) leaves sufficient headroom for the OS, runtime, embedding model, and ChromaDB. It provides better response quality than the 1B model while staying within memory limits. The 26B MoE model requires ~14.4 GB at Q4 which would exceed available memory.
 
-**Measured performance:** Ingestion of 4 sources (82 passages, 21 wiki pages) takes ~3-5 minutes. Ask-mode queries return answers in ~5-10 seconds. Search mode is near-instant (no LLM). Chat mode responses take ~5-15 seconds depending on whether retrieval is triggered.
+**Measured performance:**
+
+| Metric | Value |
+|--------|-------|
+| Model memory (llama-server RSS) | ~3.4 GB |
+| Total system RAM used | ~12.3 GB of 14.7 GB |
+| Ingestion (4 sources, 82 passages, 21 pages) | ~3-5 min |
+| Ask-mode query (retrieve + generate) | ~5-10 sec |
+| Search-mode query (ChromaDB only) | <1 sec |
+| Chat-mode response | ~5-15 sec |
 
 ## CLI Commands
 
@@ -161,6 +170,19 @@ User Command
 
 5. **Ingestion** reads source files from `vault/raw/`, splits text into ~1500-character passages with overlap, indexes them in ChromaDB, then sends source text to Gemma to generate wiki pages. Pages get short descriptive filenames, matching headings, source references, and related-note links. A source catalog (`data/source_catalog.yaml`) tracks what was generated, preventing duplicates on re-ingestion.
 
+### Tracing a Question Through the Harness
+
+Example: `python wiki.py ask "Where is the workshop?"`
+
+1. **CLI routing** (`wiki.py:ask`): Click parses the command and calls `run_ask(question, model, retrieval, save_path)`.
+2. **Load instructions** (`harness/ask_mode.py`): Reads `config/wiki-instructions.md` — neutral research rules with citation requirements.
+3. **Retrieve passages** (`harness/retrieval.py:search`): Queries ChromaDB with `query_texts=[question]`, gets top-5 passages ranked by cosine similarity. Each result includes text, source path, section, and relevance score.
+4. **Build prompt** (`harness/ask_mode.py`): Assembles system prompt (research rules) + retrieved passages formatted as `[Source: filename, section]: text` + the user's question.
+5. **Call Gemma** (`harness/model.py:generate`): Sends the assembled prompt to `ollama.generate(model="gemma3:4b", ...)`. Returns the generated text.
+6. **Display and save** (`harness/ask_mode.py`): Prints the answer in a Rich Panel. If `--save` was passed, writes an evidence card with question, passages, answer, and assessment fields.
+
+Chat mode differs at steps 2-3: it loads `config/persona.md` instead, maintains a conversation history list, and only retrieves when `_needs_retrieval()` keyword matching triggers a search. Search mode stops at step 3 — it displays the raw passages and never calls the model.
+
 ### Design Choices
 
 | Choice | Decision | Rationale |
@@ -190,15 +212,38 @@ User Command
 - [Chat mode check](data/evidence/chat_check.md) — "what can you help me with?" + follow-up draft
 - [Search mode check](data/evidence/search_check.md) — search "pricing" for raw passages
 
+### Source Catalog and Note Tracing
+
+The source catalog ([source_catalog.yaml](data/source_catalog.yaml)) maps each original source to its generated wiki pages and passage count:
+
+```
+AI & Sustainability.txt → 5 wiki pages, 12 passages
+CLAUDIA ESI DENTU RESUME.txt → 6 wiki pages, 7 passages
+Data and Decisions Syllabus.txt → 5 wiki pages, 43 passages
+FTMBA 201A Economic Analysis Syllabus.txt → 5 wiki pages, 20 passages
+```
+
+**Trace example:** Start at [index.md](vault/index.md) → click [[MTN Ghana Product Delivery]] → note shows source reference `CLAUDIA ESI DENTU RESUME.txt` → follow `[[Telecel Ghana AI Center of Excellence]]` related link → trace back to the same resume source in `vault/raw/`.
+
+**Re-ingestion test:** Re-ingesting `AI & Sustainability.txt` kept the passage count at 82 (old passages cleared, new ones added for the same source). The source catalog updated to reflect the new page set. No duplicate passages or orphaned pages were created.
+
 ### Offline Demonstration
 
-All components run locally after initial setup. The system requires no internet connection once Ollama and the embedding model are cached:
+All components run locally after initial setup — no internet required:
 
 - **Ollama + Gemma 3 4B:** Runs entirely on local CPU/GPU, no API calls
 - **ChromaDB + ONNX embeddings:** Embedding model cached locally (~80 MB), vector store persisted to `data/chroma/`
 - **Search mode:** Works without even Ollama running (queries ChromaDB directly)
 
-To verify: disconnect from the internet, then run `python wiki.py search "pricing"` and `python wiki.py ask "What is the AI policy?"` — both produce results without network access.
+**[Offline demonstration log](data/evidence/offline_demo.md)** — all four ask-mode tests, search mode, and help captured with internet disconnected.
+
+To reproduce: disconnect WiFi/Ethernet, then run:
+
+```bash
+python offline_test.py
+```
+
+This runs all tests and saves the output to `data/evidence/offline_demo.md` with an internet connectivity check at both start and end.
 
 ## Obsidian Screenshots
 

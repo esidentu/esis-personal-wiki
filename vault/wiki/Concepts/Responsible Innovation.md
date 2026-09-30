@@ -1,12 +1,10 @@
 # Responsible Innovation
 
-Responsible innovation emphasizes a holistic approach to technological development, considering not just the technical aspects but also the social, environmental, and ethical implications. It requires anticipating potential risks and ensuring equitable outcomes.
+Responsible innovation emphasizes a holistic approach to technological development, considering not only the benefits but also the potential risks and societal impacts, particularly in the context of AI’s complex relationship with sustainability.
 
 ## Key Details
 
-- The tension between the sustainability of AI and AI for sustainability is central to responsible innovation.
-- It necessitates critically analyzing AI applications and their underlying material and social underpinnings.
-- Frameworks and practices are needed to address these considerations in engineering and entrepreneurial practices.
+['AI is becoming a form of global infrastructure.', 'It sits at the heart of responsible innovation, technology policy, ethical engineering, business transformation, investment strategy, and planetary governance.']
 
 ## Source
 

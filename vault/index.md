@@ -18,7 +18,7 @@ Welcome to my personal knowledge base. Browse topics below or use the CLI to sea
 - [[AI for Sustainability]]
 - [[Double-Edged Helix]]
 - [[Responsible Innovation]]
-- [[Journal of Responsible Innovation]]
+- [[Critical Analysis of AI Applications]]
 
 ## Courses
 

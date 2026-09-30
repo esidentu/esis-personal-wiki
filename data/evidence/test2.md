@@ -65,18 +65,16 @@ determines this score.
 o...
 
 ## Answer
-The Economic Analysis course is graded as follows:
-
-*   10% Attendance, tracked using iClickers [Source: FTMBA 201A Economic Analysis Syllabus.txt, Section: Grading:]. Students can miss 1 class without penalty, starting from Lecture 2.
-*   50% Group Projects, determined by the simple average of the take-home deliverables [Source: FTMBA 201A Economic Analysis Syllabus.txt, Section: Grading:].
-*   40% Final Exam, which is in person [Source: FTMBA 201A Economic Analysis Syllabus.txt, Section: Exams]. 
-
-The letter grade for each student is determined by an academic curve based on the numerical scores of the entire class [Source: FTMBA 201A Economic Analysis Syllabus.txt, Section: Grading:].
+The Economic Analysis course is graded with the following components: 15% for the midterm exam, 20% for the final exam, and a group project [Source: FTMBA 201A, Section: Group memo]. [Source: Data and Decisions, Section: Grading:] Attendance is worth 10%, Group Projects are worth 50%, and the Final Exam is worth 40%. The final grade is determined by an academic curve set by the instructor [Source: Data and Decisions, Section: Grading].
 
 ## Assessment
 
-**Accuracy: INCORRECT.** The model returned the grading breakdown from *Data and Decisions* (10% Attendance / 50% Group Projects / 40% Final Exam) but attributed it to the Economic Analysis syllabus. The actual FTMBA 201A grading is: Participation 30%, Quizzes 10%, Midterm 15%, Final 20%, Group Memo 15%, Examples in the Wild 10%.
+**Accuracy: PARTIALLY CORRECT.** After implementing source-separated prompting, the model now correctly identifies some FTMBA 201A grading components (midterm 15%, final 20%) from Passage 2. However, it also includes the Data and Decisions grading breakdown (10% Attendance, 50% Group Projects, 40% Final Exam) from Passage 5, mixing two courses in one answer.
 
-**Root cause:** Passage 5 (from Data and Decisions, relevance 43%) contains the 10%/50%/40% breakdown. The model incorrectly treated this as Economic Analysis grading despite the passage being from a different source. This is a known limitation of smaller models — they can conflate evidence from multiple retrieved passages.
+**Improvement from source-separated prompting:** The model now correctly cites Data and Decisions as the source for the 10%/50%/40% numbers, instead of misattributing them to FTMBA 201A (as happened before the fix). The source boundaries are better respected, but the model still fails to exclude irrelevant source data from the answer.
 
-**Citations:** Incorrect — cites FTMBA 201A but the numbers come from Data and Decisions.
+**Actual FTMBA 201A grading:** Participation 30%, Quizzes 10%, Midterm 15%, Final 20%, Group Memo 15%, Examples in the Wild 10%. The full breakdown is not fully captured in the top-5 retrieved passages, which is a retrieval limitation.
+
+**Root cause:** Two factors — (1) the complete grading breakdown for FTMBA 201A is split across passages not all in the top-5, and (2) the 4B model still includes tangentially retrieved evidence from a different course rather than filtering it out.
+
+**Citations:** Now correctly attributed to their actual sources (improved from the original run where Data & Decisions numbers were misattributed to FTMBA 201A).

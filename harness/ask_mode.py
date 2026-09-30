@@ -43,17 +43,30 @@ def run_ask(question: str, model: LocalModel, retrieval: RetrievalSystem, save_p
 
     # Show retrieved passages
     console.print("[dim]Retrieved passages:[/dim]")
-    evidence_block = ""
     for i, r in enumerate(results, 1):
         score_pct = f"{r['score']:.0%}"
         console.print(f"  [{i}] {r['source_path']} — {r['section']} ({score_pct})")
-        evidence_block += f"\n--- Passage {i} (Source: {r['source_path']}, Section: {r['section']}) ---\n{r['text']}\n"
 
     console.print()
 
+    # Group passages by source to prevent cross-source conflation
+    from collections import OrderedDict
+    grouped = OrderedDict()
+    for i, r in enumerate(results, 1):
+        src = r["source_path"]
+        if src not in grouped:
+            grouped[src] = []
+        grouped[src].append((i, r))
+
+    evidence_block = ""
+    for src, passages_in_src in grouped.items():
+        evidence_block += f"\n=== Source: {src} ===\n"
+        for i, r in passages_in_src:
+            evidence_block += f"\n--- Passage {i} (Section: {r['section']}) ---\n{r['text']}\n"
+
     # Build prompt
     instructions = _load_instructions()
-    user_prompt = f"""Evidence passages:
+    user_prompt = f"""Evidence passages (grouped by source document — do NOT mix facts between sources):
 {evidence_block}
 
 Question: {question}

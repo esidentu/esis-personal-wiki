@@ -267,9 +267,13 @@ To view the wiki in Obsidian, select "Open folder as vault" and choose the `vaul
 
 The 4B model struggles with **cross-source evidence conflation**. In Test 2, the model was asked about Economic Analysis grading and returned the Data & Decisions grading breakdown (10%/50%/40%) while citing the Economic Analysis syllabus. When multiple sources appear in the retrieved passages, the small model sometimes mixes facts between them rather than correctly attributing each detail to its source. This also appeared in Test 3, where the model answered using only one syllabus's AI policy instead of synthesizing both. The limited parameter count means the model cannot always distinguish which passage each fact came from when multiple sources are interleaved in the prompt.
 
-### Proposed Improvement
+### Fix Attempted
 
-**Source-separated prompting:** Instead of presenting all retrieved passages in a single block, group them by source document and label each group clearly (e.g., "=== Source: FTMBA 201A ==="). This structural separation in the prompt would help the 4B model maintain source boundaries when generating answers. Additionally, a **re-ranking step** using a lightweight cross-encoder could score passage-question relevance more precisely than cosine similarity alone, filtering out marginally relevant passages from unrelated sources before they reach the model.
+**Source-separated prompting** was implemented in `harness/ask_mode.py`: retrieved passages are now grouped by source document with clear `=== Source: filename ===` headers and a prompt instruction not to mix facts between sources. This partially improved Test 2 — the model now correctly attributes Data & Decisions grading numbers to their actual source instead of misattributing them to FTMBA 201A. However, the model still includes both courses' grading in one answer rather than filtering to the relevant source only.
+
+### Proposed Further Improvement
+
+A **re-ranking step** using a lightweight cross-encoder could score passage-question relevance more precisely than cosine similarity alone, filtering out marginally relevant passages from unrelated sources before they reach the model. For Test 2, this would likely drop the Data & Decisions grading passage (43% relevance) before it reaches the prompt, leaving only FTMBA 201A passages for the model to work with.
 
 ## Project Structure
 

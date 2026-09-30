@@ -1,8 +1,11 @@
 # Offline Demonstration
 
-**Date:** 2026-09-29 22:49
+**Date:** 2026-09-29 23:01
 **Python:** 3.12.10
-**Internet connected:** No (verified offline)
+**Internet connected:** YES - DISCONNECT BEFORE RUNNING
+
+> WARNING: Internet is still connected. Disconnect WiFi/Ethernet and rerun this script.
+> The test results below are still valid (all local), but offline status is not verified.
 
 ---
 
@@ -87,8 +90,7 @@ Generating answer...
 +---------------------------------- Answer -----------------------------------+
 | The International Energy Agency estimates that global data-center           |
 | electricity demand could exceed 1,500 terawatt-hours by 2030 [Source: AI &  |
-| Sustainability.txt, Section: The Sustainability of AI and AI for            |
-| Sustainability: Confronting the Paradox of Responsible Innovation].         |
+| Sustainability.txt, Passage 1].                                             |
 +---------------------- Model: gemma3:4b | Mode: local -----------------------+
 ```
 
@@ -112,20 +114,17 @@ lists content from supplementary texts, which you should read as back (46%)
 Generating answer...
 
 +---------------------------------- Answer -----------------------------------+
-| The Economic Analysis course is graded as follows:                          |
+| The Economic Analysis course is graded using three components: [Source:     |
+| FTMBA 201A, Section: Exams]. The midterm exam is worth 15% of the course    |
+| grade, and the final exam is worth 20% [Source: FTMBA 201A, Section:        |
+| Exams]. Additionally, a group project, a short memo, contributes to the     |
+| grade [Source: FTMBA 201A, Section: Group memo].                            |
 |                                                                             |
-|  • 10% Attendance, tracked using iClickers [Source: FTMBA 201A Economic     |
-|    Analysis Syllabus.txt, Section: Grading:]. Students can miss 1 class     |
-|    without penalty, starting from Lecture 2.                                |
-|  • 50% Group Projects, determined by the simple average of the take-home    |
-|    deliverables [Source: FTMBA 201A Economic Analysis Syllabus.txt,         |
-|    Section: Grading:].                                                      |
-|  • 40% Final Exam, which is in person [Source: FTMBA 201A Economic Analysis |
-|    Syllabus.txt, Section: Exams].                                           |
-|                                                                             |
-| The letter grade for each student is determined by an academic curve based  |
-| on the numerical scores of the entire class [Source: FTMBA 201A Economic    |
-| Analysis Syllabus.txt, Section: Grading:].                                  |
+| The Data and Decisions course is graded as follows: [Source: Data and       |
+| Decisions, Section: Grading:]. 10% is based on attendance tracked using     |
+| iClickers, with a maximum of one missed class without penalty. 50% is       |
+| determined by the simple average of the take-home deliverables for group    |
+| projects, and 40% is based on the final in-person exam.                     |
 +---------------------- Model: gemma3:4b | Mode: local -----------------------+
 ```
 
@@ -157,16 +156,9 @@ Generating answer...
 | Students in this course are allowed to use generative AI tools provided for |
 | certain assignments and may use other generative AI tools unless            |
 | specifically prohibited for a) given assignment [Source: Data and Decisions |
-| Syllabus.txt, Section: Students in this course are allowed to use           |
-| generative AI tools provided for certain assignments and may use other      |
-| generative AI tools unless specifically prohibited for a) ]. The use of AI  |
-| is strictly forbidden on the Final Exam, and any use of AI during the Final |
-| Exam will trigger an automatic Failing Grade on the course [Source: Data    |
-| and Decisions Syllabus.txt, Section: Specifically, the use of AI is         |
-| strictly forbidden on the Final Exam. Any use of AI during the Final Exam   |
-| will trigger an automatic Failing Grade on the course]. AI use is strictly  |
-| prohibited for in-class exams and Examples in the Wild [Source: FTMBA 201A  |
-| Economic Analysis Syllabus.txt, Section: IV A note on AI].                  |
+| Syllabus.txt, Section: 5]. The use of AI is strictly forbidden on the Final |
+| Exam [Source: FTMBA 201A Economic Analysis Syllabus.txt, Section: IV A note |
+| on AI].                                                                     |
 +---------------------- Model: gemma3:4b | Mode: local -----------------------+
 ```
 
@@ -191,9 +183,9 @@ Generating answer...
 
 +---------------------------------- Answer -----------------------------------+
 | The wiki does not contain sufficient evidence to answer this question. The  |
-| passage regarding Claudia Esi Dentu’s education states she received a BSc   |
-| Business Administration, Cum Laude Honors (First Class) at Ashesi           |
-| University, but does not specify her GPA at UC Berkeley Haas.               |
+| passage regarding Claudia E Dentu’s education states she received a BSc     |
+| Business Administration, Cum Laude Honors at Ashesi University, but does    |
+| not provide her GPA at Berkeley Haas.                                       |
 +---------------------- Model: gemma3:4b | Mode: local -----------------------+
 ```
 
@@ -222,4 +214,4 @@ Commands:
 
 ## 7. Internet Status Verification
 
-Internet reachable at end of test: **No (offline confirmed)**
+Internet reachable at end of test: **Yes**
